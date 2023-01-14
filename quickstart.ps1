@@ -14,3 +14,15 @@ hugo server
 hugo new posts/my-first-post.md
 
 hugo server
+
+
+### add another theme then change theme in config.toml
+
+git submodule add https://github.com/epistemehealth/health-science-journal themes/health-science-journal
+
+hugo server
+
+### try another one
+git submodule add https://github.com/adityatelange/hugo-PaperMod themes/
+
+hugo server
