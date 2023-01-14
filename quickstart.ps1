@@ -26,3 +26,6 @@ hugo server
 git submodule add https://github.com/adityatelange/hugo-PaperMod themes/
 
 hugo server
+
+### 
+git submodule add https://github.com/adityatelange/hugo-PaperMod themes/
