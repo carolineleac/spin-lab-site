@@ -1,6 +1,7 @@
 ---
 title: "MRI  Preparation"
-date: 2017-03-02T12:00:00-05:00
+description: "MRI Preparation"
+featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 menu:
   main:
     weight: 1
@@ -12,7 +13,4 @@ Practice at Home
 
 
 Practice at Manchester University
-
-<p><red> red color markdown text</red>
-<yellow> red color markdown text</yellow></p>
 
