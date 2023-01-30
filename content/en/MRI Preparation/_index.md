@@ -12,5 +12,6 @@ We offer every MRI participant the opportunity to become familiar with the MRI p
 Practice at Home
 
 
+
 Practice at Manchester University
 
