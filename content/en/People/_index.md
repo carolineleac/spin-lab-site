@@ -1,6 +1,7 @@
 ---
 title: "People"
-date: 2017-03-02T12:00:00-05:00
+description: "Meet the team"
+featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 menu:
   main:
     weight: 1
