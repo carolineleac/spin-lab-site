@@ -1,6 +1,9 @@
 ---
 title: "MRI  Preparation"
 date: 2017-03-02T12:00:00-05:00
+menu:
+  main:
+    weight: 1
 ---
 
 We offer every MRI participant the opportunity to become familiar with the MRI procedures in an educational and relaxing environment. We invite you to learn more about what we do here.
