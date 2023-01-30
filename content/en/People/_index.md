@@ -4,7 +4,7 @@ description: "Meet the team"
 featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 menu:
   main:
-    weight: 1
+    weight: 4
 ---
 
 Meet the Team
