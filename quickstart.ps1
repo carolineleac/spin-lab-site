@@ -12,6 +12,8 @@ echo "theme = 'ananke'" >> config.toml
 hugo server
 
 hugo new posts/my-first-post.md
+hugo new post/my-first-post.md
+hugo new Test/my-first-post.md
 
 hugo server
 
