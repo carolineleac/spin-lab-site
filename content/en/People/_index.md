@@ -4,6 +4,10 @@ description: "Meet the team"
 featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 ---
 
-Check out the latest publications from our group. 
 
-Articles are paginated with only three posts here for example. You can set the number of entries to show on this page with the "pagination" setting in the config file.
+
+Meet the team!
+
+Names appear alphabetically - need to change. 
+
+You can set the number of entries to show on this page with the "pagination" setting in the config file.

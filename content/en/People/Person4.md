@@ -3,7 +3,7 @@ date: 2017-04-09T10:58:08-04:00
 description: "The Grand Hall"
 featured_image: "/images/CLC_headshot.jpg"
 tags: ["scene"]
-title: "Caroline"
+title: "Person4"
 ---
 
 {{< figure src="/images/CLC_headshot.jpg" title="CLC Headshot" >}}
