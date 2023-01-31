@@ -15,7 +15,7 @@ enableRobotsTXT = true
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
-  [languages.fr]
+
 
 [sitemap]
   changefreq = "monthly"
