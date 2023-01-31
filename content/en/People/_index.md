@@ -1,7 +1,7 @@
 ---
 title: "People"
 description: "Meet the team"
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+featured_image: '/images/UoM.jpg'
 ---
 
 
