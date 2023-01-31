@@ -1,9 +1,8 @@
 ---
-title: "MRI Preparation"
+title: "Publications"
 date: 2017-03-02T12:00:00-05:00
 ---
-
-MRI Preparation
+Check out the latest publications from our group. 
 
 
 Headings
