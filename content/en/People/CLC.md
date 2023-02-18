@@ -1,13 +1,12 @@
 ---
 date: 2017-04-09T10:58:08-04:00
 description: "The Grand Hall"
-featured_image: "/images/UoM.jpg"
+featured_image: "/images/pikachu.png"
 tags: ["scene"]
 title: "Caroline"
 ---
 
 {{< figure src="/images/CLC_headshot.jpg" title="CLC Headshot" >}}
-
 
 hree hundred and forty-eight years, six months, and nineteen days ago
 to-day, the Parisians awoke to the sound of all the bells in the triple
@@ -53,4 +52,3 @@ mystery play, which was to be presented in the grand hall of the Palais de
 Justice (the courts of law), which was well roofed and walled; and that
 the curious left the poor, scantily flowered maypole to shiver all alone
 beneath the sky of January, in the cemetery of the Chapel of Braque.
-
