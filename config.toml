@@ -1,4 +1,4 @@
-baseURL = 'https://carolineleac.github.io/spin-lab-site'
+
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
