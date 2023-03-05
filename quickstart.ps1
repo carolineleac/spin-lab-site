@@ -29,3 +29,4 @@ hugo server
 
 git rm .\themes\hugo-PaperMod\
 git rm .\themes\health-science-journal\
+# git rm -r .\themes\ananke\
