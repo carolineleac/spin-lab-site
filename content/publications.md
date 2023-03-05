@@ -7,7 +7,7 @@ type: page
 menu: main
 ---
 
-![img](/images/uom.jpg)
+![img](/images/university-of-manchester.jpg)
 
 The latest publications from the lab.
 

@@ -1,7 +1,7 @@
 ---
 title: "News"
 date: 2019-03-02T12:00:00-05:00
-featured_image: "/images/uom.jpg"
+featured_image: "/images/university-of-manchester.jpg"
 ---
 
 Check out the latest news from our group.
