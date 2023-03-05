@@ -7,6 +7,7 @@ title: "Caroline"
 ---
 
 {{< figure src="/images/CLC_headshot.jpg" title="CLC Headshot" >}}
+![img](/images/eevee.png)
 
 hree hundred and forty-eight years, six months, and nineteen days ago
 to-day, the Parisians awoke to the sound of all the bells in the triple

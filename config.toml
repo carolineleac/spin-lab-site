@@ -1,5 +1,12 @@
 
+# Note that the below url has the directory "spin-lab-site"
+# specified after the top level domain name.  This screws up
+# resource references in posts!
+# Therefore need to specify canonifyurls = true to fix this.
+
+baseURL = 'https://carolineleac.github.io/spin-lab-site'
 canonifyurls = true
+
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
@@ -9,14 +16,6 @@ SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-
-[languages]
-  [languages.en]
-    title = "SPIN-Lab"
-    weight = 1
-    contentDir = "content/en"
-    # languageDirection = 'rtl' for Right-To-Left languages
-
 
 [sitemap]
   changefreq = "monthly"
