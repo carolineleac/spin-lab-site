@@ -20,14 +20,12 @@ hugo server
 
 ### add another theme then change theme in config.toml
 
-git submodule add https://github.com/epistemehealth/health-science-journal themes/health-science-journal
+git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
 
 hugo server
 
-### try another one
-git submodule add https://github.com/adityatelange/hugo-PaperMod themes/
 
-hugo server
+### remove a theme installed as a submodule ...
 
-### 
-git submodule add https://github.com/adityatelange/hugo-PaperMod themes/
+git rm .\themes\hugo-PaperMod\
+git rm .\themes\health-science-journal\
