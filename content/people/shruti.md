@@ -3,6 +3,7 @@ date: 2015-04-09T10:58:08-04:00
 description: "Shruti's Bio"
 featured_image: "/images/university-of-manchester.jpg"
 title: "All about Shruti"
+headshot: "/images/eevee.png"
 ---
 
 ![img](/images/eevee.png)

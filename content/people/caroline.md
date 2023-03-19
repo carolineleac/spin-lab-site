@@ -3,6 +3,7 @@ date: 2015-04-09T10:58:08-04:00
 description: "Caroline's Bio"
 featured_image: "/images/university-of-manchester.jpg"
 title: "All about Caroline"
+headshot: "/images/pikachu.png"
 ---
 
 ![img](/images/pikachu.png)
