@@ -29,7 +29,7 @@ hugo server
 
 git rm .\themes\hugo-PaperMod\
 git rm .\themes\health-science-journal\
-# git rm -r .\themes\ananke\
+git rm -r .\themes\ananke\
 
 
 # see https://stackoverflow.com/questions/17683458/how-do-i-commit-case-sensitive-only-filename-changes-in-git
