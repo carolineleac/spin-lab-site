@@ -1,11 +1,13 @@
 ---
 date: 2015-04-09T10:58:08-04:00
-description: "Shruti's Bio"
+description: ""
 featured_image: "/images/university-of-manchester.jpg"
-title: "All about Shruti"
-headshot: "/images/eevee.png"
+title: "Shruti Garg"
+headshot: "/images/shruti_HS.jpg"
 ---
 
-![img](/images/eevee.png)
+![img](/images/shruti_HS.jpg)
 
-Proident sit dolor dolor in et dolor. Labore labore consequat proident pariatur commodo nostrud amet cupidatat. Commodo incididunt nulla ea esse. Ex non cupidatat aute et ipsum adipisicing velit voluptate deserunt aliqua. Aliquip commodo et duis et labore. Aliqua ullamco id non in nulla labore qui cillum non cillum veniam sit.
+I did my general medical training at Grant Medical College, Mumbai India beofre training in general psychiatry at Oxford & Leeds. I moved to Manchester in 2008 to specialise in Child & Adolescent Psychiatry. I was awarded a research training fellowship by NIHR Bioedical Research centre in 2011-12 to study the behavioural phenotype of Neurofibromatosis type 1 (NF1). My PhD thesis described for the first time, a high prevalence of Autism Spectrum Disorders (ASD) in NF1. This work has formed the basis for my research programme in NF1 autism. In August 2018 I was awarded the Francis Collins Scholarship in NF1 by NTAP (Neurofibromatosis Therapeutics Acceleration Program), at John's Hopkins University (http://www.n-tap.org/new-research-tools-for-neurofibromatosis-type-1-2-2-2/). This work will allow me to investigate the use of non-invasive brain stimulation for working memory deficits in NF1. 
+
+Clinically I run the regional Social Development Clinic and a specialist NF1 liaison service at the Royal Manchester Children's Hospital. 

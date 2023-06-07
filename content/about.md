@@ -7,4 +7,8 @@ type: page
 menu: main
 ---
 
-Elit veniam ex ad mollit consequat deserunt. Dolore minim aute in eu laborum fugiat cupidatat laboris. Irure occaecat quis sunt ea elit nisi ad. Consectetur esse qui quis pariatur enim laborum velit laborum qui in est non sunt. Voluptate magna quis commodo commodo sint labore nisi proident sint ad occaecat veniam.
+We are a research group interested in brain plasticity during neurodevelopment. We use a combination of advanced brain imaging and computational methods to understand how brain plasticity in altered in certain genetic conditions and how that affects learning. 
+
+There is a translational focus to our work where we examine the physiological mechanisms of learning and memory identified in animal models in human clinical cohorts, thereby addressing critical translational gap form animal models to humans. 
+
+Our aim is to develop optimal, personalised pharmacological and non-invasive brain stimulation treatments for the amelioration of learning difficulties in children with rare genetic conditions.

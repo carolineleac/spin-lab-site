@@ -1,8 +1,10 @@
 ---
-date: 2019-04-09T10:58:08-04:00
-description: "News Two."
+date: 2023-05-01
+description: ""
 featured_image: "/images/mri-scanner-1.jpg"
-title: "News 2"
+title: "New Paper"
 ---
 
-Proident tempor sint do in tempor enim nulla occaecat. In excepteur quis et adipisicing et aute nisi. Commodo amet velit aliquip id in commodo elit ut. Ipsum mollit ipsum dolor adipisicing eu consequat aute do et pariatur. Excepteur pariatur esse cupidatat aute aute. Mollit laborum aliqua proident adipisicing.
+Check out our latest paper:
+
+[A Targeted, Low-Throughput Compound Screen in a Drosophila Model of Neurofibromatosis Type 1 Identifies Simvastatin and BMS-204352 as Potential Therapies for Autism Spectrum Disorder (ASD)](https://doi.org/10.1523/ENEURO.0461-22.2023) Dyson A, Ryan M, Garg S, Evans DG, Baines RA. eNeuro, DOI: 10.1523/ENEURO.0461-22.2023
