@@ -64,15 +64,17 @@ Develop a line of research for your thesis.
 
 Open publications
 
-It is our lab policy to use pre-prints unless this is not possible. We aim to submit pre-prints simultaneously with the initial submission to the journal. Pre-prints are updated with every major revision to the manuscript that comes as a result of the reviews.
-
-We publish open-access whenever possible, and always when essential. Both the UK Research Evaluation Framework and UK research funders have rules about making papers publicly available. 
+It is our lab policy to use pre-prints unless this is not possible. We aim to submit pre-prints simultaneously with the initial submission to the journal. Pre-prints are updated with every major revision to the manuscript that comes as a result of the reviews. We publish open-access whenever possible and always abide by UK research funders rules about making papers publicly available. 
 
 Open code
+
 All computational code should be freely available on the GitHub or similar at the time of publication.
 
 Open data
+
 Data should be shared on a public repository at the time of publication. 
+
+---
 
 
 
