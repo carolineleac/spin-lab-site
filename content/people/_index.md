@@ -1,7 +1,7 @@
 ---
 title: "People"
-description: "People that I work with."
+description: "Meet the team"
 featured_image: "/images/university-of-manchester.jpg"
 ---
 
-Meet the team.
+

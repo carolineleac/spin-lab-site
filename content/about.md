@@ -7,6 +7,8 @@ type: page
 menu: main
 ---
 
+[We should habe a tem pic here!]
+
 We are a research group interested in brain plasticity during neurodevelopment. We use a combination of advanced brain imaging and computational methods to understand how brain plasticity in altered in certain genetic conditions and how that affects learning. 
 
 There is a translational focus to our work where we examine the physiological mechanisms of learning and memory identified in animal models in human clinical cohorts, thereby addressing critical translational gap form animal models to humans. 
