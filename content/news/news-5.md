@@ -2,7 +2,7 @@
 date: 2023-05-01
 description: ""
 featured_image: "/images/mri-scanner-1.jpg"
-title: "New Paper"
+title: "To-do list"
 ---
 
 Things to do
