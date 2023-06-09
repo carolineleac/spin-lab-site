@@ -5,6 +5,14 @@ featured_image: "/images/mri-scanner-1.jpg"
 title: "New Paper"
 ---
 
-Check out our latest paper:
+Things to do
 
-[A Targeted, Low-Throughput Compound Screen in a Drosophila Model of Neurofibromatosis Type 1 Identifies Simvastatin and BMS-204352 as Potential Therapies for Autism Spectrum Disorder (ASD)](https://doi.org/10.1523/ENEURO.0461-22.2023) Dyson A, Ryan M, Garg S, Evans DG, Baines RA. eNeuro, DOI: 10.1523/ENEURO.0461-22.2023
+Logo low res
+
+Logo SPiN?
+
+Pictures not same size
+
+News on front page
+
+Add a team pic to the About page
