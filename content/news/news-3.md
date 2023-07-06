@@ -1,10 +1,11 @@
 ---
-date: 2023-04-01
+date: 2023-02-01
 description: ""
-featured_image: "/images/mri-scanner-1.jpg"
-title: "New Paper"
+featured_image: "/images/Paper_CLC_2023_1.png"
+title: "New Paper: A mean-field model of glutamate and GABA synaptic dynamics for functional MRS"
 ---
 
-Check out our latest paper:
+In our latest paper we We test the hypothesis that fMRS detects shifts in metabolite concentrations as they move from presynaptic vesicles, where they are largely invisible to MRS, to extracellular and cytosolic pools, where they are visible to MRS using a mean field model which links the neural dynamics of neurotransmitters at the microscopic-level to the macroscopic-level imaging measurements obtained in experimental studies.
 
-[A Targeted, Low-Throughput Compound Screen in a Drosophila Model of Neurofibromatosis Type 1 Identifies Simvastatin and BMS-204352 as Potential Therapies for Autism Spectrum Disorder (ASD)](https://doi.org/10.1523/ENEURO.0461-22.2023) Dyson A, Ryan M, Garg S, Evans DG, Baines RA. eNeuro, DOI: 10.1523/ENEURO.0461-22.2023
+
+[A mean-field model of glutamate and GABA synaptic dynamics for functional MRS](https://doi.org/10.1016/j.neuroimage.2022.119813) Lea-Carnall CA, El-Deredy W, Stagg CJ, Williams SR, Trujillo-Barreto NJ, NeuroImage, DOI: 10.1016/j.neuroimage.2022.119813

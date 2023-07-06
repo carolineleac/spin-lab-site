@@ -1,10 +1,10 @@
 ---
-date: 2023-03-01
+date: 2023-02-02
 description: ""
-featured_image: "/images/mri-scanner-1.jpg"
-title: "New Paper"
+featured_image: "/images/Paper_CLC_2023_2.png"
+title: "New Paper: Noise-modulated multistable synapses in a Wilson-Cowan-based model of plasticity"
 ---
 
-Check out our latest paper:
+In our latest computational paper we investigate plasticity dynamics in a WC-based model of interacting neural populations coupled with activity-dependent synapses in which a periodic stimulation was applied in the presence of noise of controlled intensity. We found that for a narrow range of the noise variance, synaptic strength can be optimized. In particular, there is a regime of noise intensity for which synaptic strength presents a triple-stable state. Regulating noise intensity affects the probability that the system chooses one of the stable states, thereby controlling plasticity. 
 
-[A Targeted, Low-Throughput Compound Screen in a Drosophila Model of Neurofibromatosis Type 1 Identifies Simvastatin and BMS-204352 as Potential Therapies for Autism Spectrum Disorder (ASD)](https://doi.org/10.1523/ENEURO.0461-22.2023) Dyson A, Ryan M, Garg S, Evans DG, Baines RA. eNeuro, DOI: 10.1523/ENEURO.0461-22.2023
+[Noise-modulated multistable synapses in a Wilson-Cowan-based model of plasticity](https://doi.org/10.3389/fncom.2023.1017075) Lea-Carnall CA, Tanner LI, Montemurro MA. Frontiers in Computational Neuroscience, DOI: 10.3389/fncom.2023.1017075.
