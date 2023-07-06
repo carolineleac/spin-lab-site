@@ -13,6 +13,13 @@ The latest publications from the lab.
 
 ### _2023_
 
+[A Targeted, Low-Throughput Compound Screen in a Drosophila Model of Neurofibromatosis Type 1 Identifies Simvastatin and BMS-204352 as Potential Therapies for Autism Spectrum Disorder (ASD)](https://doi.org/10.1523/ENEURO.0461-22.2023) Dyson A, Ryan M, Garg S, Evans DG, Baines RA. eNeuro, DOI: 10.1523/ENEURO.0461-22.2023
+
+[Long COVID in Children and Young after Infection or Reinfection with the Omicron Variant: A Prospective Observational Study](https://doi.org/10.1016/j.jpeds.2023.113463) Pinto Pereira SM, Mensah A, Nugawela MD, Stephenson T, Ladhani SN, Dalrymple E, Dudley J, McOwat K, Simmons R, Heyman I, Segal T, Semple MG, Xu L; CLoCk Consortium; Shafran R. J Pediatr, DOI: 10.1016/j.jpeds.2023.113463
+
+[Temporal trends in eating disorder and self-harm incidence rates among adolescents and young adults in the UK in the 2 years since onset of the COVID-19 pandemic: a population-based study](https://doi.org/10.1016/S2352-4642(23)00126-8) Trafford AM, Carr MJ, Ashcroft DM, Chew-Graham CA, Cockcroft E, Cybulski L, Garavini E, Garg S, Kabir T, Kapur N, Temple RK, Webb RT, Mok PLH. Lancet Child Adolesc Health, DOI: 10.1016/S2352-4642(23)00126-8
+
+
 [Noise-modulated multistable synapses in a Wilson-Cowan-based model of plasticity](https://www.frontiersin.org/articles/10.3389/fncom.2023.1017075/full) Lea-Carnall CA, Tanner LI, Montemurro MA. Front Comput Neurosci, DOI: 10.3389/fncom.2023.1017075
 
 [A mean-field model of glutamate and GABA synaptic dynamics for functional MRS](https://www.sciencedirect.com/science/article/pii/S105381192200934X)

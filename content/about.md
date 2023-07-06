@@ -7,7 +7,7 @@ type: page
 menu: main
 ---
 
-[We should habe a tem pic here!]
+[We will have our tem pic here!]
 
 We are a research group interested in brain plasticity during neurodevelopment. We use a combination of advanced brain imaging and computational methods to understand how brain plasticity in altered in certain genetic conditions and how that affects learning. 
 
