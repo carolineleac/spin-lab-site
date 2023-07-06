@@ -1,10 +1,18 @@
 ---
-date: 2023-06-20
+date: 2022-12-01
 description: ""
-featured_image: "/images/Paper_SG_2023_2.png"
-title: "New paper: Temporal trends in eating disorder and self-harm incidence rates among adolescents and young adults in the UK"
+featured_image: "/images/mri-scanner-1.jpg"
+title: "To-do list"
 ---
 
-In our latest paper we examine the incidence rates of these psychopathologies among young people in the UK in the 2 years following onset of the COVID-19 pandemic.
+Things to do
 
-[Temporal trends in eating disorder and self-harm incidence rates among adolescents and young adults in the UK in the 2 years since onset of the COVID-19 pandemic: a populationbased study](https://doi.org/10.1016/S2352-4642(23)00126-8) Trafford AM, Carr MJ, Ashcroft DM, et al. The Lancet Child & Adolescent Health, DOI: 10.1016/S2352-4642(23)00126-8.
+Logo low res - tried to update?
+
+Logo SPiN? -done but not updaed?
+
+Pictures not same size for people 
+
+News on front page (done?)
+
+Add a team pic to the About page (coming)
