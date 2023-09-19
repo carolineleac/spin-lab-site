@@ -10,6 +10,11 @@ menu: main
 
 ### _2023_
 
+[Beyond global synchrony: equivalence between Kuramoto oscillators and Wilson-Cowan model for large-scale brain networks](https://doi.org/10.1117/12.2670120)
+Abd-Elrazik AH, Torres FA, Otero M, Lea-Carnall CA, El-Deredy W. Proceedings Volume 12567, 18th International Symposium on Medical Information Processing and Analysis; 125671B (2023).  
+
+[Aberrant oscillatory activity in neurofibromatosis type 1: an EEG study of resting state and working memory](https://doi.org/10.1186/s11689-023-09492-y) Booth SJ, Garg S, Brown LJE, Green J, Pobric G, Taylor JR. A. J Neurodev Disord. 2023 Aug 22;15(1):27. doi: 10.1186/s11689-023-09492-y. PMID: 37608248; PMCID: PMC10463416.
+
 [A Targeted, Low-Throughput Compound Screen in a Drosophila Model of Neurofibromatosis Type 1 Identifies Simvastatin and BMS-204352 as Potential Therapies for Autism Spectrum Disorder (ASD)](https://doi.org/10.1523/ENEURO.0461-22.2023) Dyson A, Ryan M, Garg S, Evans DG, Baines RA. eNeuro, DOI: 10.1523/ENEURO.0461-22.2023
 
 [Long COVID in Children and Young after Infection or Reinfection with the Omicron Variant: A Prospective Observational Study](https://doi.org/10.1016/j.jpeds.2023.113463) Pinto Pereira SM, Mensah A, Nugawela MD, Stephenson T, Ladhani SN, Dalrymple E, Dudley J, McOwat K, Simmons R, Heyman I, Segal T, Semple MG, Xu L; CLoCk Consortium; Shafran R. J Pediatr, DOI: 10.1016/j.jpeds.2023.113463
@@ -22,7 +27,7 @@ menu: main
 Lea-Carnall CA, El-Deredy W, Stagg CJ, Williams SR, Trujillo-Barreto NJ.
 NeuroImage, DOI: 10.1016/j.neuroimage.2022.119813
 
-[A Targeted, Low-Throughput Compound Screen in a Drosophila Model of Neurofibromatosis Type 1 Identifies Simvastatin and BMS-204352 as Potential Therapies for Autism Spectrum Disorder (ASD)](https://doi.org/10.1523/ENEURO.0461-22.2023) Dyson A, Ryan M, Garg S, Evans DG, Baines RA. eNeuro, DOI: 10.1523/ENEURO.0461-22.2023
+
 
 ---
 
