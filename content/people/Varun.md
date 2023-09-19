@@ -2,10 +2,10 @@
 description: ""
 featured_image: "/images/Background_Images/brain_plate.jpg"
 title: "Varun Chandran"
-headshot: "/images/Headshots/HS_VC.png"
+headshot: "/images/Headshots/HS_VC.jpg"
 ---
 
-![img](/images/Headshots/HS_VC.png)
+![img](/images/Headshots/HS_VC.jpg)
 
 Varun Arunachalam Chandran, PhD 
 
