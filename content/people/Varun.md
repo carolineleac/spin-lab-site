@@ -5,7 +5,7 @@ title: "Varun Chandran"
 headshot: "/images/Headshots/HS_VC.jpg"
 ---
 
-![img](/images/Headshots/HS_VC.jpg)
+<!-- ![img](/images/Headshots/HS_VC.jpg) -->
 
 Varun Arunachalam Chandran, PhD 
 
