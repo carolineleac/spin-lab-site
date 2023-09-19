@@ -19,7 +19,6 @@ The latest publications from the lab.
 
 [Temporal trends in eating disorder and self-harm incidence rates among adolescents and young adults in the UK in the 2 years since onset of the COVID-19 pandemic: a population-based study](https://doi.org/10.1016/S2352-4642(23)00126-8) Trafford AM, Carr MJ, Ashcroft DM, Chew-Graham CA, Cockcroft E, Cybulski L, Garavini E, Garg S, Kabir T, Kapur N, Temple RK, Webb RT, Mok PLH. Lancet Child Adolesc Health, DOI: 10.1016/S2352-4642(23)00126-8
 
-
 [Noise-modulated multistable synapses in a Wilson-Cowan-based model of plasticity](https://www.frontiersin.org/articles/10.3389/fncom.2023.1017075/full) Lea-Carnall CA, Tanner LI, Montemurro MA. Front Comput Neurosci, DOI: 10.3389/fncom.2023.1017075
 
 [A mean-field model of glutamate and GABA synaptic dynamics for functional MRS](https://www.sciencedirect.com/science/article/pii/S105381192200934X)

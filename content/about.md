@@ -7,10 +7,12 @@ type: page
 menu: main
 ---
 
-[We will have our tem pic here!]
+![img](/images/team-pic.jpg)
+Left to right: Varun, Georgia, Caroline, Anna, and Shruti. We will need a new team photo as the lab has already grown since this was taken! 
 
-We are a research group interested in brain plasticity during neurodevelopment. We use a combination of advanced brain imaging and computational methods to understand how brain plasticity in altered in certain genetic conditions and how that affects learning. 
+We are a research group interested in mechanisms of brain plasticity during neurodevelopment. We use a combination of advanced brain imaging and computational methods to understand how brain plasticity is altered in certain genetic conditions and how that affects learning. 
 
-There is a translational focus to our work where we examine the physiological mechanisms of learning and memory identified in animal models in human clinical cohorts, thereby addressing critical translational gap form animal models to humans. 
+There is a translational focus to our work where we examine the physiological mechanisms of learning and memory identified in animal models in human clinical cohorts, thereby addressing a critical translational gap form animal models to humans. 
 
 Our aim is to develop optimal, personalised pharmacological and non-invasive brain stimulation treatments for the amelioration of learning difficulties in children with rare genetic conditions.
+
