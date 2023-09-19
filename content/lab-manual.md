@@ -1,6 +1,6 @@
 ---
 title: Lab Manual
-featured_image: "/images/mri-scanner-2.jpg"
+featured_image: "/images/Background_Images/single_brain.jpg"
 omit_header_text: true
 description: This is the lab manual page
 type: page

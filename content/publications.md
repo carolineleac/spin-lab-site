@@ -1,15 +1,12 @@
 ---
 title: Publications
-featured_image: "/images/mri-scanner-2.jpg"
+featured_image: "/images/Background_Images/journal.jpg"
 omit_header_text: true
 description: This is the publications page
 type: page
 menu: main
 ---
 
-![img](/images/university-of-manchester.jpg)
-
-The latest publications from the lab.
 
 ### _2023_
 

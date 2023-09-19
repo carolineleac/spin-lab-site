@@ -1,6 +1,6 @@
 ---
 title: About
-featured_image: "/images/brain_background.png"
+featured_image: "/images/Background_Images/brain_background.jpg"
 omit_header_text: true
 description: This is the about page
 type: page

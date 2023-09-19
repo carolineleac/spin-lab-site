@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: ''
+featured_image: "/images/Background_Images/contact_background"
 omit_header_text: true
 description: We'd love to hear from you
 type: page
