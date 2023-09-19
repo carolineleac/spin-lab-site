@@ -1,7 +1,7 @@
 ---
 date: 2023-02-01
 description: ""
-featured_image: "/images/Paper_CLC_2023_1.png"
+featured_image: "/images/Paper_Images/Paper_CLC_2023_1.png"
 title: "New Paper: A mean-field model of glutamate and GABA synaptic dynamics for functional MRS"
 ---
 

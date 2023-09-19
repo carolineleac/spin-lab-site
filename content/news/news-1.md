@@ -1,7 +1,7 @@
 ---
 date: 2023-06-20
 description: ""
-featured_image: "/images/Paper_SG_2023_2.png"
+featured_image: "/images/Paper_Images/Paper_SG_2023_2.png"
 title: "New paper: Temporal trends in eating disorder and self-harm incidence rates among adolescents and young adults in the UK"
 ---
 

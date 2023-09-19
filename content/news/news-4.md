@@ -1,7 +1,7 @@
 ---
 date: 2023-02-02
 description: ""
-featured_image: "/images/Paper_CLC_2023_2.png"
+featured_image: "/images/Paper_Images/Paper_CLC_2023_2.png"
 title: "New Paper: Noise-modulated multistable synapses in a Wilson-Cowan-based model of plasticity"
 ---
 
