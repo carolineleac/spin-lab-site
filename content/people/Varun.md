@@ -2,10 +2,10 @@
 description: ""
 featured_image: "/images/university-of-manchester.jpg"
 title: "Varun Chandran"
-headshot: "/images/varun2.png"
+headshot: "/images/Headshots/HS_VC.png"
 ---
 
-![img](/images/varun2.png)
+![img](/images/Headshots/HS_VC.png)
 
 Varun Arunachalam Chandran, PhD 
 
