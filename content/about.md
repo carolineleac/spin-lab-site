@@ -7,7 +7,7 @@ type: page
 menu: main
 ---
 
-![img](/images/team-pic.jpg)
+![img](/images/Headshots/team-pic.jpg)
 Left to right: Varun, Georgia, Caroline, Anna, and Shruti. We will need a new team photo as the lab has already grown since this was taken! 
 
 We are a research group based at the Univerity of Manchester interested in mechanisms of brain plasticity during neurodevelopment. We use a combination of advanced brain imaging and computational methods to understand how brain plasticity is altered in certain genetic conditions and how that affects learning. 
