@@ -1,6 +1,6 @@
 ---
 description: ""
-featured_image: "/images/university-of-manchester.jpg"
+featured_image: "/images/Background_Images/brain_plate.jpg"
 title: "Caroline Lea-Carnall"
 headshot: "/images/Headshots/HS_CLC2.jpg"
 ---
