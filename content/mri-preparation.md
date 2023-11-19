@@ -6,6 +6,7 @@ omit_header_text: true
 description: All about MRI Preparation
 type: page
 menu: main
+weight: 6
 ---
 
 Enim consequat sunt esse fugiat fugiat fugiat sint adipisicing ex ullamco dolor cupidatat quis. Cillum tempor labore laboris cillum aliquip incididunt velit elit deserunt. Aute nulla ex laboris proident et reprehenderit officia quis elit nisi Lorem. Consectetur sit magna duis ullamco aliquip incididunt nostrud elit est consequat sunt sit.

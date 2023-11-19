@@ -5,8 +5,8 @@ omit_header_text: true
 description: This is the lab manual page
 type: page
 menu: main
+weight: 5
 ---
-
 
 ### Introduction
 
@@ -58,13 +58,11 @@ Develop a line of research for your thesis.
 
 - fulfill all of the various admin requirements of the university on eprog
 
-
 ### Open Science
-
 
 Open publications
 
-It is our lab policy to use pre-prints unless this is not possible. We aim to submit pre-prints simultaneously with the initial submission to the journal. Pre-prints are updated with every major revision to the manuscript that comes as a result of the reviews. We publish open-access whenever possible and always abide by UK research funders rules about making papers publicly available. 
+It is our lab policy to use pre-prints unless this is not possible. We aim to submit pre-prints simultaneously with the initial submission to the journal. Pre-prints are updated with every major revision to the manuscript that comes as a result of the reviews. We publish open-access whenever possible and always abide by UK research funders rules about making papers publicly available.
 
 Open code
 
@@ -72,10 +70,6 @@ All computational code should be freely available on the GitHub or similar at th
 
 Open data
 
-Data should be shared on a public repository at the time of publication. 
+Data should be shared on a public repository at the time of publication.
 
 ---
-
-
-
-

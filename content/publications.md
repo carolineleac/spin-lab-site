@@ -5,13 +5,13 @@ omit_header_text: true
 description: This is the publications page
 type: page
 menu: main
+weight: 4
 ---
-
 
 ### _2023_
 
 [Beyond global synchrony: equivalence between Kuramoto oscillators and Wilson-Cowan model for large-scale brain networks](https://doi.org/10.1117/12.2670120)
-Abd-Elrazik AH, Torres FA, Otero M, Lea-Carnall CA, El-Deredy W. Proceedings Volume 12567, 18th International Symposium on Medical Information Processing and Analysis; 125671B (2023).  
+Abd-Elrazik AH, Torres FA, Otero M, Lea-Carnall CA, El-Deredy W. Proceedings Volume 12567, 18th International Symposium on Medical Information Processing and Analysis; 125671B (2023).
 
 [Aberrant oscillatory activity in neurofibromatosis type 1: an EEG study of resting state and working memory](https://doi.org/10.1186/s11689-023-09492-y) Booth SJ, Garg S, Brown LJE, Green J, Pobric G, Taylor JR. A. J Neurodev Disord. 2023 Aug 22;15(1):27. doi: 10.1186/s11689-023-09492-y. PMID: 37608248; PMCID: PMC10463416.
 
@@ -19,15 +19,13 @@ Abd-Elrazik AH, Torres FA, Otero M, Lea-Carnall CA, El-Deredy W. Proceedings Vol
 
 [Long COVID in Children and Young after Infection or Reinfection with the Omicron Variant: A Prospective Observational Study](https://doi.org/10.1016/j.jpeds.2023.113463) Pinto Pereira SM, Mensah A, Nugawela MD, Stephenson T, Ladhani SN, Dalrymple E, Dudley J, McOwat K, Simmons R, Heyman I, Segal T, Semple MG, Xu L; CLoCk Consortium; Shafran R. J Pediatr, DOI: 10.1016/j.jpeds.2023.113463
 
-[Temporal trends in eating disorder and self-harm incidence rates among adolescents and young adults in the UK in the 2 years since onset of the COVID-19 pandemic: a population-based study](https://doi.org/10.1016/S2352-4642(23)00126-8) Trafford AM, Carr MJ, Ashcroft DM, Chew-Graham CA, Cockcroft E, Cybulski L, Garavini E, Garg S, Kabir T, Kapur N, Temple RK, Webb RT, Mok PLH. Lancet Child Adolesc Health, DOI: 10.1016/S2352-4642(23)00126-8
+[Temporal trends in eating disorder and self-harm incidence rates among adolescents and young adults in the UK in the 2 years since onset of the COVID-19 pandemic: a population-based study](<https://doi.org/10.1016/S2352-4642(23)00126-8>) Trafford AM, Carr MJ, Ashcroft DM, Chew-Graham CA, Cockcroft E, Cybulski L, Garavini E, Garg S, Kabir T, Kapur N, Temple RK, Webb RT, Mok PLH. Lancet Child Adolesc Health, DOI: 10.1016/S2352-4642(23)00126-8
 
 [Noise-modulated multistable synapses in a Wilson-Cowan-based model of plasticity](https://www.frontiersin.org/articles/10.3389/fncom.2023.1017075/full) Lea-Carnall CA, Tanner LI, Montemurro MA. Front Comput Neurosci, DOI: 10.3389/fncom.2023.1017075
 
 [A mean-field model of glutamate and GABA synaptic dynamics for functional MRS](https://www.sciencedirect.com/science/article/pii/S105381192200934X)
 Lea-Carnall CA, El-Deredy W, Stagg CJ, Williams SR, Trujillo-Barreto NJ.
 NeuroImage, DOI: 10.1016/j.neuroimage.2022.119813
-
-
 
 ---
 
@@ -73,7 +71,7 @@ Journal of Neuroscience, DOI: 10.1523/JNEUROSCI.0562-22.2022
 
 ### _2020_
 
-[GABA Modulates Frequency-Dependent Plasticity in Humans](https://www.cell.com/iscience/fulltext/S2589-0042(20)30849-X) 
+[GABA Modulates Frequency-Dependent Plasticity in Humans](<https://www.cell.com/iscience/fulltext/S2589-0042(20)30849-X>)
 Lea-Carnall CA, Williams SR, Sanaei-Nezhad F, Trujillo-Barreto NJ, Montemurro MA, El-Deredy W, Parkes LM.
 iScienceDOI: 10.1016/j.isci.2020.101657
 
@@ -119,9 +117,7 @@ iScienceDOI: 10.1016/j.isci.2020.101657
 
 [Cognition in children with neurofibromatosis type 1: data from a population-based study](https://doi.org/10.1111/dmcn.12734) Lehtonen A, Garg S, Roberts SA, Trump D, Evans DG, Green J, Huson SM. Dev Med Child Neurol, DOI: 10.1111/dmcn.12734
 
-
 ---
-
 
 <p>This is some paragraph text.
 {.font-normal .text-lg}</p>

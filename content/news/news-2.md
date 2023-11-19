@@ -3,6 +3,7 @@ date: 2023-06-01
 description: "We are recruiting"
 featured_image: "/images/Background_Images/mri-scanner-1.jpg"
 title: "Fully funded EPSRC-DTP"
+omit_header_text: "True"
 ---
 
 We are recruting!
@@ -15,4 +16,3 @@ Glutamate and GABA are two important neurotransmitters in the brain. Glutamate i
 In this proposed PhD projects, we will use the Rasopathies as model disorders known to be associated with GABA/Glutamate imbalances to investigate the relationship with oculomotor and pupil response. Cognitive disturbance, including learning, working memory and long-term memory difficulties, are common in the Rasopathies. The molecular and cellular mechanisms underlying cognitive impairment in Rasopathies have been studied using mouse models and show imbalance between GABA and Glutamate.
 
 In this project, we will use cutting edge neuroimaging methods including MR Spectroscopy to measure the levels of GABA and glutamate in patients with Rasopathies as compared to healthy controls and to associate them with concurrently acquired oculomotor and pupillary responses. We will also examine how these variables change while participants perform a memory task using functional MRS and concurrent eye tracking. By doing so, we hope to gain a better understanding of how neurotransmitters modulate oculomotor activity and in turn learning and memory processes both in clinical and control populations. This understanding can help develop new targets for treatments or validate oculomotor and pupillary function as biomarkers for treatment and non-invasive brain stimulation.
-
