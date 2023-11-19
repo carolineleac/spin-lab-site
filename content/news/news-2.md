@@ -1,7 +1,8 @@
 ---
 date: 2023-06-01
 description: "We are recruiting"
-featured_image: "/images/Background_Images/mri-scanner-1.jpg"
+# featured_image: "/images/Background_Images/mri-scanner-1.jpg"
+summary_image: "/images/Background_Images/mri-scanner-1.jpg"
 title: "Fully funded EPSRC-DTP"
 omit_header_text: "True"
 ---

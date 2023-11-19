@@ -1,7 +1,8 @@
 ---
 date: 2022-12-01
 description: ""
-featured_image: "/images/Background_Images/mri-scanner-1.jpg"
+#featured_image: "/images/Background_Images/mri-scanner-1.jpg"
+summary_image: "/images/Background_Images/mri-scanner-1.jpg"
 title: "To-do list"
 omit_header_text: "True"
 ---
