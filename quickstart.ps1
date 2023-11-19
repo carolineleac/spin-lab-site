@@ -1,4 +1,10 @@
 
+### for issues with caching try
+
+hugo serve --disableFastRender
+
+
+###
 cd C:\_git\spin-lab-site
 
 hugo new site quickstart
